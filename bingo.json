@@ -21,11 +21,11 @@
     },
     {
         "title": "praaly",
-        "activated": true
+        "activated": false
     },
     {
         "title": "go drake",
-        "activated": false
+        "activated": true
     },
     {
         "title": "nashor",
